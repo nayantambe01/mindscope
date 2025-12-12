@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+Pillow
+jupyter
+datasets
+accelerate
+numpy
+fastapi
+uvicorn[standard]
+torch
+transformers
+pydantic
+python-multipart

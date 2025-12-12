@@ -1,0 +1,17 @@
+# Ignore heavy folders
+node_modules/
+frontend/node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Ignore heavy model files
+*.onnx
+*.safetensors
+*.bin
+*.zip
+# Ignore PyTorch Checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoint-*/
