@@ -38,7 +38,7 @@ MEDIUM_SEVERITY_KEYWORDS = {
     "breakup": 1, "drained of energy": 1, "anxiety": 1, "overwhelmed": 1, "can't stop crying": 1,
     "frustrated with myself": 1, "let down": 1, "really lonely": 1, "isolating myself": 1, "dark thoughts": 1,
     "scolded": 1, "pressure on me": 1, "feeling down": 1, "crying on the inside": 1, "darkness is closing in": 1, "hurting": 1,
-    "nothing seems to be going right": 1
+    "nothing seems to be going right": 1, "final day of my life": 1, "i can't take this pain": 1, "i give up": 1, "i'm done": 1
 }
 SHORT_PLEA_KEYWORDS = {"help me": 2, "i need help": 2}
 TRIVIAL_CONTEXT_KEYWORDS = [ "my internet", "the movie", "this game", "my phone", "the weather", "traffic", "so funny", "lol", "lmao", "💀", "my exam", "the test", "school", "assignments", "the project", "this song" ]
