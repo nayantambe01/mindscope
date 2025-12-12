@@ -83,7 +83,7 @@ function App() {
     setIsLoading(true);
     setResult(null);
     try {
-      const response = await fetch("https://nayanhello-mindscope-backend.hf.space", {
+      const response = await fetch("https://nayanhello-mindscope-backend.hf.space/predict", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ text, emotion: detectedEmotion }),
